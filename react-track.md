@@ -32,3 +32,5 @@ Higher-Order Components are a frequently misunderstood and underutilized archite
 #### What's the big deal? Getting started with styled-components.
 ##### Steve Pietrek
 ReactJS has quickly become a front-end developer favorite for creating web applications. One of the key features is its component-focused approach for building applications. A new paradigm, CSS-in-JS was created, to help improve developer experience when developing component-based applications. In this session, we’ll start by discussing component-based design and how it differs from traditional design. We will move to discussing CSS-in-JS and benefits it provides when building component-based applications. Finally, we will cover one of the more popular CSS-in-JS libraries for ReactJS, styled-components. This talk will enable attendees to start using styled-components in their own ReactJS application.
+
+* [Blog: Introduction to Styled-Components](http://spietrek.github.io/Styled-Components/)

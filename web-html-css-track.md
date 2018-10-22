@@ -10,3 +10,4 @@ React has caught a lot of criticism for the full mixing of HTML and JS, but it i
 ##### Jeremy Likness
 TypeScript is a superset of JavaScript that provides type safety, interfaces, an object-oriented class implementation and advanced features like generics and decorators. This session teaches TypeScript by starting with a 100% pure JavaScript application and then migrating and refactoring it live to end up with a TypeScript solution.
 
+* [Github Project: Typescript from JavaScript](https://github.com/jeremylikness/typescript-from-javascript)
