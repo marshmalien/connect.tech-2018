@@ -1,4 +1,4 @@
-## Web-HTML-CSS Track
+## Web - HTML - CSS Track
 
 #### CSS in a Component Based World
 ##### Alice Brosey
