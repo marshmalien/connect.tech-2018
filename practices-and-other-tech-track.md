@@ -1,4 +1,4 @@
-## Practices and other tech
+## Practices & Other Tech Track
 
 #### Exploring Git
 ##### Jacques Vincilione
