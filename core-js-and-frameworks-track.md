@@ -1,4 +1,4 @@
-## Core JS and Frameworks
+## Core JS and Frameworks Track
 
 #### Cross-Framework Patterns in State Management
 ##### Jonathan Kemp
