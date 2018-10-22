@@ -1,5 +1,4 @@
 ## React Track
----
 
 #### React State Museum
 ##### Gant Laborde
