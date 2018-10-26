@@ -23,6 +23,9 @@ We would all love to develop on modern applications, but the reality for most of
 ##### Jeremy Fairbank
 Building applications with React is a cinch these days. But what about testing? In this talk, learn how to create an effective plan for testing a React and Redux application from the ground up. You will learn about the testing framework Jest, how to unit test React components with logic, the magic and trade-offs of snapshot testing, how to test Redux, and how to end-to-end test your entire application. You will leave this talk ready to effectively test your React applications.
 
+* [Effective React Testing](https://speakerdeck.com/jfairbank/connect-dot-tech-2018-effective-react-testing)
+* [Github Project: Effective React Testing](https://github.com/jfairbank/effective-react-testing)
+
 ---
 #### Recompose Yourself
 ##### Mitch Masia
