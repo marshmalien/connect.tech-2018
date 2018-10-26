@@ -28,6 +28,8 @@ Building applications with React is a cinch these days. But what about testing? 
 ##### Mitch Masia
 Higher-Order Components are a frequently misunderstood and underutilized architecture pattern in React apps. Let's ramp up our React architecture skills using HOCs to write more reusable and more performant apps!
 
+* [Recompose Yourself - HOCs in React Slides](http://slides.com/mmasia/deck-9#/)
+
 ---
 #### What's the big deal? Getting started with styled-components.
 ##### Steve Pietrek
