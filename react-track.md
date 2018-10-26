@@ -29,6 +29,7 @@ Building applications with React is a cinch these days. But what about testing? 
 Higher-Order Components are a frequently misunderstood and underutilized architecture pattern in React apps. Let's ramp up our React architecture skills using HOCs to write more reusable and more performant apps!
 
 * [Recompose Yourself - HOCs in React Slides](http://slides.com/mmasia/deck-9#/)
+* [Recompose Docs](https://github.com/acdlite/recompose/blob/master/docs/API.md#higher-order-components)
 
 ---
 #### What's the big deal? Getting started with styled-components.
