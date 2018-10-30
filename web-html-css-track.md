@@ -6,7 +6,7 @@ React has caught a lot of criticism for the full mixing of HTML and JS, but it i
 
 * [Recording: React: CSS in JS | Christopher Chedeau](https://vimeo.com/116209150)
 * [Slides: React: CSS in JS | Christopher Chedeau](https://speakerdeck.com/vjeux/react-css-in-js)
-* [Pure CSS game: Pure CSS Connect 4](Pure CSS game: Pure CSS Connect 4)
+* [Pure CSS game: Pure CSS Connect 4](https://codepen.io/finnhvman/pen/xXpzVN)
 
 ---
 
